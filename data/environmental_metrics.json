@@ -1,0 +1,27 @@
+{
+  "soil": {
+    "ph": 6.5,
+    "organic_carbon": 1.2,
+    "moisture": 24
+  },
+  "land": {
+    "land_use": "mixed agriculture",
+    "crop": "wheat",
+    "tree_cover": 8,
+    "vegetation_diversity": 2
+  },
+  "biodiversity": {
+    "species_richness": 12,
+    "habitat_diversity": 2,
+    "pollinator_abundance": 40
+  },
+  "climate": {
+    "annual_rainfall": 650,
+    "mean_temperature": 27
+  },
+  "human_impact": {
+    "pollution": "medium",
+    "deforestation": "low",
+    "pesticide_use": "medium"
+  }
+}

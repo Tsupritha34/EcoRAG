@@ -1,0 +1,22 @@
+Soil Health Knowledge
+
+Soil pH:
+Soil pH affects nutrient availability, microbial activity, and plant growth. Most agricultural crops perform well in slightly acidic to neutral soils, although optimal pH varies by crop.
+
+Soil Organic Carbon:
+Soil organic carbon (SOC) is an important indicator of soil health. Higher organic carbon generally supports soil structure, water retention, nutrient cycling, and soil biological activity.
+
+Low Soil Organic Carbon:
+Low SOC can reduce soil structure and water-holding capacity. Practices such as cover crops, crop residue retention, compost application, reduced tillage, and diversified cropping can help increase SOC over time.
+
+Soil Moisture:
+Soil moisture is important for plant growth, microbial activity, and soil biodiversity. Mulching, residue retention, cover crops, and improved ground cover can reduce evaporation and help maintain soil moisture.
+
+Cover Crops:
+Cover crops protect soil from erosion, increase plant diversity, improve soil organic matter, and can provide habitat and food resources for beneficial organisms.
+
+Legume Intercropping:
+Legumes can contribute nitrogen to agricultural systems through biological nitrogen fixation. Intercropping legumes with cereals can increase crop diversity and may improve soil fertility and resource use.
+
+Scientific reasoning:
+Increasing vegetation diversity and organic inputs can improve soil biological activity, nutrient cycling, moisture retention, and habitat availability. Benefits usually develop over months to several years depending on climate, soil type, and management.

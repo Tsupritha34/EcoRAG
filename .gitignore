@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+*.key
+.vscode/
+rag/faiss.index
+rag/documents.pkl
